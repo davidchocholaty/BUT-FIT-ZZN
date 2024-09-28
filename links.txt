@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/karimosama7/obesity-levels-classification/notebook
+https://www.kaggle.com/code/ahmedsharaf09/obesity-levels-classification
+https://www.kaggle.com/code/tkunzler/obesity-levels-acc-98-eda
+https://www.kaggle.com/code/abdmental01/unlocking-insights-obesity-risk-analysis
